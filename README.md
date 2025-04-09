@@ -35,6 +35,12 @@ In modern LLM-powered systems, agentic workflows are becoming increasingly compl
 - **Structure**: Map relationships between agents, tools, and data flows
 - **Security**: Apply threat modeling frameworks to identify potential vulnerabilities
 
+
+
+https://github.com/user-attachments/assets/17b9682f-c39e-4e41-91c2-4aa15f696bac
+
+
+
 ### Core Features
 
 | Capability | Description |
